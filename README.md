@@ -2,7 +2,7 @@
 
 Bu proje, **React (Next.js) client** ve **Node.js (Express) server** içeren tam bir full-stack uygulamadır.
 
-## 📁 Dizin Yapısı
+## 📁 Dizin Yapısı (Düzenlenecek)
 
 ```
 project-root/
